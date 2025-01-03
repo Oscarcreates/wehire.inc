@@ -1,0 +1,9 @@
+@font-face{
+    font-family: "Font";
+    src: url("https://db.onlinewebfonts.com/t/106ccd1b14f16971c332e309cec7d90b.eot");
+    src: url("https://db.onlinewebfonts.com/t/106ccd1b14f16971c332e309cec7d90b.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/106ccd1b14f16971c332e309cec7d90b.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/106ccd1b14f16971c332e309cec7d90b.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/106ccd1b14f16971c332e309cec7d90b.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/106ccd1b14f16971c332e309cec7d90b.svg#Font")format("svg");
+}
